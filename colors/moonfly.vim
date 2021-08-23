@@ -1,6 +1,6 @@
 " Dark Vim/Neovim color scheme.
 "
-" URL:     github.com/bluz71/vim-moonfly-colors
+" URL:     github.com/sudo-NithishKarthik/vim-moonfly-colors
 " License: MIT (https://opensource.org/licenses/MIT)
 
 " Clear highlights and reset syntax only when changing colorschemes.
